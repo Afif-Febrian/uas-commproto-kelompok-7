@@ -65,8 +65,15 @@ Server akan berjalan pada alamat:
 ```text
 http://127.0.0.1:5000
 ```
+## Postman Collection
 
----
+Untuk mempermudah pengujian API, import file collection berikut ke Postman:
+
+```text
+Postman/collection.json
+
+
+
 
 ## Daftar Endpoint API
 
